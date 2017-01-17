@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:PruebaXamarin2"
              x:Class="PruebaXamarin2.MainPage"
-             x:Vistas="PruebaXamarin2.vistas.MainPage">
+             x:Vistas="PruebaXamarin2.vistas.kkMainPage">
 
   <Label Text="Welcome to Xamarin Forms!"
            VerticalOptions="Center"
